@@ -1,4 +1,4 @@
-# Transit Accessibility and Housing Characteristics of Bengaluru Slums
+# Transit Accessibility and Housing Characteristics of Bengaluru Slums | Aneesh Mugulur
 
 Introduction
 ============
@@ -98,7 +98,7 @@ Fig 3: Kuccha House
 Fig 4: Semi Pucca House
 
 Results
--------
+=======
 
 Network Analysis - Walking Distance to Bus Stops and Metro Stations
 -------------------------------------------------------------------
@@ -182,7 +182,7 @@ Clusters have some spatial clustering as well (as shown below): 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Conclusion
-----------
+==========
 
 ### Bus Stop Accessibility:
 
