@@ -205,3 +205,9 @@ Conclusion
 - These spatial clusters suggest potential relationships with the availability of amenities, housing characteristics, and transit accessibility within these settlements.
 
 - Cluster 1, which encompasses the highest number of informal settlements, is characterized by the highest percentage of temporary and semi-temporary housing structures and is also located the farthest from any metro station, exacerbating the challenges faced by residents in terms of access to rapid transit.
+
+References
+----------
+
+Economic Survey of Karnataka 2023-24. (2024). Planning, Programme Monitoring and Statistics Department. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://des.karnataka.gov.in/storage/pdf-files/ARC/Economic_Survey_2023-24_FINALENGLISH.pdf\
+Roy, D., Palavalli, B., Menon, N., King, R., Pfeffer, K., Lees, M., & Sloot, P. M. A. (2018). Survey-based socio-economic data from slums in Bangalore, India. Scientific Data, 5(1), 170200. https://doi.org/10.1038/sdata.2017.200
