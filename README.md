@@ -110,6 +110,7 @@ To assess the accessibility of public transportation for slum residents in Benga
 For the 312 slums identified in the National Slum Federation (NSDF) dataset and 1,799 bus stops across Bengaluru, the analysis revealed that the average walking distance from a slum to the nearest bus stop is approximately 0.25 miles (0.4 kilometers). However, it is important to note that there are significant variations among individual slums, with some experiencing considerably longer walking distances.
 
 The table below highlights the slums with the highest walking distances to the nearest bus stop:
+
 | Slum Name      | Bus Stop Distance (m) | Number of Households | % Pucca houses | % Semi Pucca houses | % Kaccha Houses |
 |----------------|------------------------|-----------------------|----------------|----------------------|------------------|
 | Doddanekkundi |           0.75            |           5000                 |             20         |             79                |              0.5         |
